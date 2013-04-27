@@ -1,9 +1,9 @@
-#appname: project1
-#appid: com.eyalgaon.project1
-#type: mobile
-#guid: d96a2972-d9f3-4dd6-8e42-44c34c3f6d5f
-#version: 1.0
-#publisher: not specified
-#url: not specified
-#image: appicon.png
-#desc: not specified
+#appname:project1
+#appid:com.eyalgaon.project1
+#type:mobile
+#guid:d96a2972-d9f3-4dd6-8e42-44c34c3f6d5f
+#version:1.0
+#publisher:admin
+#url:http://www.google.com
+#image:appicon.png
+#desc:not specified
