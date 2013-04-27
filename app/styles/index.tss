@@ -6,3 +6,7 @@
 	height: Ti.UI.SIZE,
 	color: "#000"
 } 
+
+"#btn1": {
+	top: 10
+}
