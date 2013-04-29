@@ -1,6 +1,10 @@
 <Alloy>
-	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, World3</Label>
-		<Button id="btn1" onClick="btn1_Click"></Button>
-	</Window>
+    <TabGroup>
+        <Tab id="leftTab">
+            <Require type="view" src="rss" id="rssTab"/>		
+        </Tab>
+        <Tab id="rightTab">
+            <Require type="view" src="about" id="aboutTab"/>		
+        </Tab>	
+    </TabGroup>
 </Alloy>
